@@ -1,0 +1,15 @@
+no.ntnu.stud.minvakt.controller.email
+no.ntnu.stud.minvakt.controller.encryption
+no.ntnu.stud.minvakt.controller.mail
+no.ntnu.stud.minvakt.controller.salary
+no.ntnu.stud.minvakt.controller.shiftplan
+no.ntnu.stud.minvakt.data
+no.ntnu.stud.minvakt.data.department
+no.ntnu.stud.minvakt.data.shift
+no.ntnu.stud.minvakt.data.shiftplan
+no.ntnu.stud.minvakt.data.user
+no.ntnu.stud.minvakt.database
+no.ntnu.stud.minvakt.jersey
+no.ntnu.stud.minvakt.services
+no.ntnu.stud.minvakt.util
+no.ntnu.stud.minvakt.util.rest
